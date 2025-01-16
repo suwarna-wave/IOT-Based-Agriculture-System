@@ -162,6 +162,5 @@ This project is open-source and available under the MIT License.
 ---
 
 ## Author
-[Your Name]  
-[Your Email]  
-[Your GitHub Profile]
+Suwarna Pyakurel 
+suwarna.079bei@ioepc.edu.np
